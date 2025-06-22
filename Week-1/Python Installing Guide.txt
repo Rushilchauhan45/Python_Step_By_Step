@@ -1,0 +1,22 @@
+
+
+[Step 1]: https://www.python.org/downloads
+--> Download Python's Latest Version From Link 
+
+[Step 2]: Click The Add to "PATH" Checkbox
+--> It's Added Path Of Python In System Variables 
+
+[Step 3]: Check Python is Installed? 
+--> Write Command "Py --version/python --version" in Command Prompt
+
+[Step 4]: https://code.visualstudio.com/
+--> Download VS Code From The Link if U Have VS Code then Follow From Step 6 
+
+[Step 5]: Click The Checkbox "Add To PATH"
+--> It Added Vs Code Path To Manually in System Variables
+
+[Step 6]: Download Extension "Python" From VS Code Extension Store 
+--> The Valid Extension For Python is Maded By Microsoft 
+
+[Step 7]: Make File With Name "Demo.py" And Write Code "  print("Hellow , Python world!")  "
+--> If Python is Succesfully Installed Then You Can See Output "Hellow , Python world!" On Console......

@@ -1,0 +1,43 @@
+[what is Python ?]
+------------------
+
+--> Python is Programming Language...
+--> Python is Developed By Guido Van Rossum...
+--> Python is Developed In 1991...
+--> Python is "High-level" Programming Language...
+--> Python is Easy And Simple to Understand...
+
+[Why We Use Python ?]
+---------------------
+
+--> Simple Syntax  -- Easy To Write Syntax
+--> Cross Platform -- Windows , Mac , Linux , etc...EveryWhere it's Works
+--> Open Source    -- Easy to use Anywhere Everywhere 
+--> Huge Library Supoort -- Math , IOT(Automation) , AI/ML , WEB , APP 
+--> Fast Development  -- It Reduces Code , And Gives Perfect Work 
+--> Community Support -- it's Works EveryWhere Anywhere
+
+[Where we Use Python In Industries]
+-----------------------------------
+
+--> Data Science   -- Data Manuplation , Data Clening , Prediction Models (NumPY , Pandas)
+--> AL/ML          -- Neureal Networks , Chatboats(Prompt based) , Tensorflow , Scikit-Learning Laibrary 
+--> WEB Dev        -- Website Backend (Flask , Django)
+--> App Dev        -- Cross Platform (Windows , Mac , Linux)(Kivy)
+--> Game Dev       -- Gaming Logics (Pygame)
+--> IOT Automation -- Rasberrypi , Micropython(NodeMCU)
+--> Graphics/Animation -- Pyglet , Turtle
+--> Scientific Computing -- High -level Calculation Like NASA Level Scintific Simulation 
+
+[Future Scope Of Python]
+------------------------
+
+Job Opportunitires in Futures :
+-------------------------------
+[1] AI Enginner
+[2] Python Developer
+[3] IOT Developer
+[4] Data Analyst - Data Scientist
+
+--> Python Is Used By Google , Netflix , Youtube , Instagram , NASA , Dropbox,Facebook Etc.....
+

@@ -1,0 +1,14 @@
+
+Strict Rules For Write Python's Code:
+-------------------------------------
+
+[1] Indetation Blocks/Space/Tab
+[2] No Semicolon In Python's Code
+[3] Case Sensitive Language 
+
+
+
+
+
+
+
