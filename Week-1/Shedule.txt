@@ -1,12 +1,18 @@
 Week-wise Teaching Plan
-------------------------
+-----------------------
 
 [Week 1: Introduction to Python]
----------------------------------
+--------------------------------
  Introduction to Python
  Installing Python, IDEs (IDLE/VS Code)
  Python Syntax, Print(), Input()
  Variables, Data types
  Basic programs
+
+
+
+
+
+
 
 
