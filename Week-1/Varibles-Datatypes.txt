@@ -1,9 +1,6 @@
 #Varibale : Who Stores Data...
 #Data Type : A Container who Stores Multiple Variables With Same Data type... 
 
-#Varibales In Python...
-
-
 #Rules To Define varibales In Python...
 
 # [1] Name are Case sensitive...(var/VAR)
@@ -12,13 +9,49 @@
 # [4] Don't Define Varible with Python Keywords...
 # [5] Varibale Name Should be Meaningful...
 
-#varible Defining With Different Data Types...
 
-# [1] Basic Data Types...
-var1 = 10 #int
-var2 = 20.5 #float
-var3 = "Hello" #string
-var4 = True #bool --> True '1' or False '0'
+[Comments In Python:]
+
+#  --> Single line Comments
+
+'''  -----Content------ '''  --> Multiline Comment
+
+
+[Datatypes In Python:]
+----------------------
+
+[1] Basic Data types/Primitive Data types:
+
+int 
+float
+str
+bool
+complex
+
+[2] Collection Datatypes / Data Structures:
+
+list
+tuple
+set
+dict
+
+[3] None Type/Special Data Type:
+
+NoneType
+byte
+bytearray
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

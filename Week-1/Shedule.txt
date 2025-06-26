@@ -7,6 +7,7 @@ Week-wise Teaching Plan
  Installing Python, IDEs (IDLE/VS Code)
  Python Syntax, Print(), Input()
  Variables, Data types
+ TypeCasting
  Basic programs
 
 
