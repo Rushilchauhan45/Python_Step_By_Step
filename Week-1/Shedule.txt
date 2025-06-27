@@ -11,6 +11,15 @@ Week-wise Teaching Plan
  Basic programs
 
 
+Tools & Platforms Needed
+-----------------------------
+ Python 3.8+ (IDLE / VS Code)
+ MicroPython (NodeMCU)
+ ThingSpeak or Firebase
+ Online IDEs (e.g., Replit)
+
+
+
 
 
 

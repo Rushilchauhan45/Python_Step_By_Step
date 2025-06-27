@@ -1,0 +1,9 @@
+Shedule Of Week 2:
+--------------------
+
+Week 2: Operators & Data Structures
+------------------------------------
+ Arithmetic, Assignment, Comparison, Logical Operators
+ Identity, Membership, Bitwise Operators
+ String operations
+ List ,Tuple ,set , dict  operations

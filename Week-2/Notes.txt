@@ -1,0 +1,84 @@
+[Operators in python]
+--------------------
+
+what is Operators?
+--> Operators Means a Special Character Who Perfect Specific Operation in Operands....
+
+
+
+[1] Arithmetic Operators
+------------------------
++ , - , * , / --> Basic Arithmetic Operators
+
+// --> Floor Divison 
+%  --> Module
+** --> Power
+
+[2] Comparison Operators(Relational)
+-------------------------------------
+
+== , != , > , < , >= , <=
+
+[3] Assignememt Operators 
+---------------------------
+
+= ---> Assigning Values To the Variables
++=
+-=
+/=
+*=
+//=
+**=
+%=
+
+[4] Logical Operators
+----------------------
+
+and , or , not
+
+[5] Bitwise Operators
+----------------------
+
+& (and)
+' (or)
+^ (xor)
+~ (not)
+<< (Left Shift)
+>> (Right Shift)
+
+[6] Indentity Operators
+-----------------------
+
+is (true) , is not (False)
+
+[7] Membership Operators
+------------------------
+
+in , not in 
+
+
+Note That : In Python Operators Work Basis On It's Precedence(Piority)
+
+Piorites In Python Operators 
+-----------------------------
+
+Oders High To low :
+---------------------
+
+Python Follows Bodmas Rule .....
+
+B -- Bracket 
+O -- H - l , Power or Any Builting Math Fuctions
+D -- Divison
+M -- Multiplication
+A -- Addition
+S -- Subtraction 
+
+
+
+
+
+
+
+
+

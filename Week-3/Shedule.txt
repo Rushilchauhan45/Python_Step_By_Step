@@ -1,0 +1,10 @@
+Shedule Of Week 3:
+--------------------
+
+Week 3: Decision Making & Loops
+-------------------------------
+ if, if-else, elif statements
+ Boolean logic
+ while, for loops
+ Loop control: break, continue, pass
+ Looping through lists, sets, dictionaries

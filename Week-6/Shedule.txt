@@ -1,0 +1,9 @@
+Shedule Of Week 6:
+--------------------
+
+Week 6: File Handling & Exception Handling
+--------------------------------------------
+ Text, CSV, Binary files
+ Reading, writing, appending files
+ try-except, finally, multiple exception blocks
+ Exercises based on student data or logs

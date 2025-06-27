@@ -1,0 +1,9 @@
+Shedule Of Week 7:
+--------------------
+
+Week 7: MicroPython – Basics + GPIO
+-----------------------------------
+ What is MicroPython?
+ Installing MicroPython on NodeMCU
+ Blinking LED on GPIO
+ Button input using GPIO

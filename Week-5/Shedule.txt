@@ -1,0 +1,10 @@
+Shedule Of Week 5:
+--------------------
+
+Week 5: Functions and Modules
+-----------------------------------
+ Defining custom functions
+ return, parameters, scope
+ Lambda functions
+ Importing modules
+ datetime, math, user-defined modules

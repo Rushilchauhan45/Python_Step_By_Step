@@ -1,0 +1,9 @@
+Shedule Of Week 8:
+--------------------
+
+Week 8: MicroPython – Sensors + Cloud
+-------------------------------------
+ Temperature sensor, LDR
+ WiFi setup with NodeMCU
+ Sending data to ThingSpeak or Firebase
+ Mini IoT project: live sensor dashboard

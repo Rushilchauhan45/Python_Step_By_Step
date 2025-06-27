@@ -1,0 +1,9 @@
+Shedule Of Week 4:
+--------------------
+
+Week 4: Plotting + Practice
+----------------------------
+ matplotlib.pyplot introduction
+ Create simple graphs
+ Practice programs on loops + decision making
+ Mini quiz/assignment
