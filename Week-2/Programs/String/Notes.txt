@@ -1,0 +1,40 @@
+
+What is [String] In Python ?
+----------------------------
+
+--> String is One Type Of Sequesnce of Characters ....
+--> String is Also Called As Character Array......
+--> Ex., "This is a String" , "Hello , Python world!"
+
+-----------------------------------------
+There Are Major String Operations Listed
+-----------------------------------------
+
+[1] Accessing Any Character From String (Ch Array)
+[2] Slicing of String (left - Right)
+[3] Negative Indexing/Slicing
+[4] String Repetation (*)
+[5] String Concatation
+[6] Membership Checking (in , not in)
+
+-----------------------------------------
+            String Methods
+-----------------------------------------
+
+.lower() --> Convert to Lowercase
+.upper() --> Convert to Uppercase
+.capitalize() --> Capitalize 1st Letter
+
+.title() --> Convert into title
+.strip() --> Remove White Spaces 
+.replace(a , b) --> Replace One to Other
+
+.find('a') --> Find Position 'a' 
+.count('a') --> Find 'a' Counts
+.startswith('a') --> if startswith 'a' return "ture" ow "False"
+.endswith('a') --> if endswith 'a' return "true" ow "Flase"
+
+.split() --> Split String Into List
+''.join(list) -->  joins list to string 
+
+
