@@ -1,0 +1,57 @@
+# These All are the Parts of Python Data Structure(DS)...
+
+Odered/Unodered  --> Fix the position of Any Elements / Fixing Position is Not Avaiable
+Mutable/Unmutable --> It Can Changeble After Created / Not Changeble
+
+---------
+[1] LIST
+---------
+
+--> List is an Odered , mutable Collection of Elements.... 
+--> Duplicate values Allow....
+--> Syntax : var = [10 , 20 , 30 , 40] 
+--> Ex., var1 = [10 , "apple" , 20.45 , 20 , "Hellow"]
+
+
+----------
+[2] Tuple
+----------
+
+--> Tuple is an Odered , Unmutable Collection of elements.....
+--> Duplicate values Allow....
+--> Syntax : var = (10 , 20 , 30 , 40)
+--> Ex., var1 = (10 , "apple" , 20.45 , 20 , "Hellow")
+
+--------
+[3] Set
+--------
+
+--> Set is an Unodered , Mutable Collection of elements....
+--> No Duplicate Values Allowed....
+--> Syntax : var = {10 , 20 , 30 , 40}
+--> Ex., var1 = {10 , "apple" , 20.45 , 20 , "Hellow"}
+
+
+--------
+[4] Dict
+--------
+
+--> it Stores Values With Key pair 
+--> Keys are Always Unique(Non-Repetable)
+--> Syntax : my_dict = {'name' : 'alex' , 'age' : '25'} 
+
+
+🔚 Summary Table:
+--------------------------------------------------------------
+Data Type	Ordered	   Mutable	 Allows-Duplicates	   Syntax
+--------------------------------------------------------------
+List	     Yes	     Yes	      Yes	             [ ]
+Tuple	     Yes	     No	          Yes	             ( )
+Set	No	     Yes	     No	                         { } or set()
+Dict	     Yes	     Yes	   Keys = unique	 {key: value}
+---------------------------------------------------------------
+
+
+
+
+
