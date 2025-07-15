@@ -20,7 +20,7 @@ Mutable/Unmutable --> It Can Changeble After Created / Not Changeble
 --> Tuple is an Odered , Unmutable Collection of elements.....
 --> Duplicate values Allow....
 --> Syntax : var = (10 , 20 , 30 , 40)
---> Ex., var1 = (10 , "apple" , 20.45 , 20 , "Hellow")
+--> Ex., var1 = (10 , "apple" , 20.45 , 20 , True)
 
 --------
 [3] Set

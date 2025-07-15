@@ -12,7 +12,7 @@ what is Operators?
 
 // --> Floor Divison 
 %  --> Module
-** --> Power
+** --> Power            
 
 [2] Comparison Operators(Relational)
 -------------------------------------
@@ -56,7 +56,7 @@ is (true) , is not (False)
 
 in , not in 
 
-
+======================================================================
 Note That : In Python Operators Work Basis On It's Precedence(Piority)
 
 Piorites In Python Operators 
@@ -73,6 +73,17 @@ D -- Divison
 M -- Multiplication
 A -- Addition
 S -- Subtraction 
+
+Precedense Of All Operators:
+-----------------------------
+
+1. ()
+2. **
+3. +x , -x , ~x(Unalry Symboles , Bitwise not Operators)
+4. * , / , // , % 
+5. + , -
+6. Comparison / Relational Operators 
+7. Logical Operators
 
 
 
