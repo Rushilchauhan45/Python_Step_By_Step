@@ -12,9 +12,11 @@
 
 [Comments In Python:]
 
-#  --> Single line Comments
+#  --> Single line Comments   
 
-'''  -----Content------ '''  --> Multiline Comment
+'''  -----Content------ '''  --> Multiline Comment 
+
+--> Comments Part is Not executable by Compiler ... 
 
 
 [Datatypes In Python:]
@@ -25,7 +27,7 @@
 int 
 float
 str
-bool
+bool 
 complex
 
 [2] Collection Datatypes / Data Structures:

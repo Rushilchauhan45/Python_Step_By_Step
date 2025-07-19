@@ -1,4 +1,4 @@
-# These All are the Parts of Python Data Structure(DS)...
+# These All are the Parts of Python Data Structure(DS)...  
 
 Odered/Unodered  --> Fix the position of Any Elements / Fixing Position is Not Avaiable
 Mutable/Unmutable --> It Can Changeble After Created / Not Changeble
@@ -7,10 +7,11 @@ Mutable/Unmutable --> It Can Changeble After Created / Not Changeble
 [1] LIST
 ---------
 
---> List is an Odered , mutable Collection of Elements.... 
+--> List is an Odered , mutable Collection of Elements....
 --> Duplicate values Allow....
+--> Multiple Datatype's Values Allow....
 --> Syntax : var = [10 , 20 , 30 , 40] 
---> Ex., var1 = [10 , "apple" , 20.45 , 20 , "Hellow"]
+--> Ex., var1 = [10 , "apple" , 20.45 , 20 , "Hellow", True]
 
 
 ----------

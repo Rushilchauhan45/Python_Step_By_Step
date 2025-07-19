@@ -3,7 +3,7 @@
 var1 = 10 #integer
 var2 = 20.5 #float
 var3 = "Hello, World!" #string
-var4 = False #boolean
+var4 = True #boolean--> 1 or 0 
 var5 = 4.3 + 5j #complex number
 
 print(type(var1),var1)

@@ -10,8 +10,8 @@ what is Operators?
 ------------------------
 + , - , * , / --> Basic Arithmetic Operators
 
-// --> Floor Divison 
-%  --> Module
+// --> Floor Divison               
+%  --> Module 
 ** --> Power            
 
 [2] Comparison Operators(Relational)

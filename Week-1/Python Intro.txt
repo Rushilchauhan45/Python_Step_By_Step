@@ -21,7 +21,7 @@
 -----------------------------------
 
 --> Data Science   -- Data Manuplation , Data Clening , Prediction Models (NumPY , Pandas)
---> AL/ML          -- Neureal Networks , Chatboats(Prompt based) , Tensorflow , Scikit-Learning Laibrary 
+--> AI/ML          -- Neureal Networks , Chatboats(Prompt based) , Tensorflow , Scikit-Learning Laibrary 
 --> WEB Dev        -- Website Backend (Flask , Django)
 --> App Dev        -- Cross Platform (Windows , Mac , Linux)(Kivy)
 --> Game Dev       -- Gaming Logics (Pygame)
@@ -39,5 +39,4 @@ Job Opportunitires in Futures :
 [3] IOT Developer
 [4] Data Analyst - Data Scientist
 
---> Python Is Used By Google , Netflix , Youtube , Instagram , NASA , Dropbox,Facebook Etc.....
-
+--> Python Is Used By Google , Netflix , Youtube , Instagram , NASA , Dropbox,Facebook Etc.....  

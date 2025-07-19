@@ -1,7 +1,7 @@
 #Membership Operation in String
 
 str1 = "Hello World"
-str2 = "Hellw"
+str2 = "Hellow"
 
 # Using the 'in' operator to check membership
 is_member = str2 in str1

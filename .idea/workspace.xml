@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="887ac0e8-94ed-4f76-8519-7a9fadea8ca4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Week-1/Programs/BasicDatatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/Programs/BasicDatatypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-1/Programs/Input-Output.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/Programs/Input-Output.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-1/Programs/TypeCasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/Programs/TypeCasting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-1/Python Code Rules.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/Python Code Rules.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-1/Python Intro.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/Python Intro.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-1/Varibles-Datatypes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/Varibles-Datatypes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-2/Programs/Operators/Arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week-2/Programs/Operators/Arithmetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-2/Programs/Operators/Assignement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week-2/Programs/Operators/Assignement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-2/Programs/Operators/Logical.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week-2/Programs/Operators/Logical.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-2/Programs/Operators/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week-2/Programs/Operators/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-2/Programs/Operators/Relational.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week-2/Programs/Operators/Relational.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="303FJF1K5IvKbz5nIRpR7Lzr4X8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.BasicDatatypes.executor": "Run",
+    "Python.Input-Output.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="887ac0e8-94ed-4f76-8519-7a9fadea8ca4" name="Changes" comment="" />
+      <created>1752848278051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752848278051</updated>
+      <workItem from="1752848279624" duration="107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Step_By_Step$BasicDatatypes.coverage" NAME="BasicDatatypes Coverage Results" MODIFIED="1752848349056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-1/Programs" />
+    <SUITE FILE_PATH="coverage/Python_Step_By_Step$Input_Output.coverage" NAME="Input-Output Coverage Results" MODIFIED="1752848362230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-1/Programs" />
+  </component>
+</project>

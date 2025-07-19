@@ -5,7 +5,7 @@
 # 🔹 int() – to convert string/float to integer
 
 print(int("5"))     # 5
-print(int(4.9))     # 4
+print(int(4.9))     # 4                       
 
 # 🔹 float() – to get decimal
 
@@ -17,7 +17,7 @@ print(float(5))       # 5.0
 a = 100
 print("Value is: " + str(a))
 
-# 🔹 bool() – to convert any data type to boolea
+# 🔹 bool() – to convert any data type to boolean
 
 print(bool(""))       # False
 print(bool("Rushil")) # True

@@ -14,4 +14,3 @@ print("Hello, Python world!")# ---> Right Syntax
 name = input("Enter your name: ")  # ---> Right Syntax
 print("Name is: ",name)
 print(name , "is good man!")
-
