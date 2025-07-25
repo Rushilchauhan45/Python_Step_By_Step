@@ -9,7 +9,7 @@ print(set1)
 
 set2 = {11,12,13}
 tup2 = (11,12,13)
-list2= (11,12,13)
+list2= [11,12,13]
 
 set1.update(set2)
 print(set1)

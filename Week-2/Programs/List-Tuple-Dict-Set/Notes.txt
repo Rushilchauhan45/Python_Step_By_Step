@@ -37,9 +37,10 @@ Mutable/Unmutable --> It Can Changeble After Created / Not Changeble
 [4] Dict
 --------
 
---> it Stores Values With Key pair 
+--> It Stores Values With Key pair
+--> It is an Unodered , Mutable Collection of Key-Value Pairs....
 --> Keys are Always Unique(Non-Repetable)
---> Syntax : my_dict = {'name' : 'alex' , 'age' : '25'} 
+--> Syntax : my_dict = {'name' : 'alex' , 'age' : '25' , 'Marks' : '90'}
 
 
 🔚 Summary Table:
@@ -48,7 +49,7 @@ Data Type	Ordered	   Mutable	 Allows-Duplicates	   Syntax
 --------------------------------------------------------------
 List	     Yes	     Yes	      Yes	             [ ]
 Tuple	     Yes	     No	          Yes	             ( )
-Set	No	     Yes	     No	                         { } or set()
+Set	          No	     Yes	     No	             { } or set()
 Dict	     Yes	     Yes	   Keys = unique	 {key: value}
 ---------------------------------------------------------------
 
