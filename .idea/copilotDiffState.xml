@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations/Acessesing_Adding.py">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations/Acessesing_Adding.py" />
+              <option name="originalContent" value="# Acessing Elements from Dictionary&#10;&#10;dict1 = {'Company':'Google','Slogan':'IT Consultansy Company','Since':'1998'}&#10;# Accessing elements&#10;print(dict1['Company'])&#10;print(dict1['Slogan'])&#10;print(dict1['Since'])&#10;&#10;# Adding elements&#10;dict1['Location'] = 'Mountain View, California'&#10;print(dict1)&#10;&#10;" />
+              <option name="updatedContent" value="# ------------------------------------&#10;# ✅ Accessing Elements from Dictionary&#10;# ------------------------------------&#10;&#10;# Creating a dictionary with company information&#10;dict1 = {'Company':'Google','Slogan':'IT Consultansy Company','Since':'1998'}&#10;&#10;# Accessing elements using square brackets []&#10;# This method gets the value associated with the given key&#10;print(&quot;Company Name:&quot;, dict1['Company'])&#10;print(&quot;Company Slogan:&quot;, dict1['Slogan'])&#10;print(&quot;Established Since:&quot;, dict1['Since'])&#10;&#10;# Output:&#10;# Company Name: Google&#10;# Company Slogan: IT Consultansy Company  &#10;# Established Since: 1998&#10;&#10;&#10;# ---------------------------&#10;# ✅ Adding Elements to Dictionary&#10;# ---------------------------&#10;&#10;# Adding a new key-value pair to existing dictionary&#10;# Syntax: dictionary_name['new_key'] = 'new_value'&#10;dict1['Location'] = 'Mountain View, California'&#10;&#10;# Print the updated dictionary&#10;print(&quot;Updated Dictionary:&quot;, dict1)&#10;&#10;# Output:&#10;# Updated Dictionary: {'Company': 'Google', 'Slogan': 'IT Consultansy Company', 'Since': '1998', 'Location': 'Mountain View, California'}" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations/Checking_Length.py">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations/Checking_Length.py" />
+              <option name="originalContent" value="#Checking Key is Existing.....&#10;&#10;dict1 = {'a': 1, 'b': 2, 'c': 3}&#10;# Checking if a key exists in the dictionary&#10;print('a' in dict1) #true&#10;print('d' in dict1) #false&#10;&#10;# length of the dictionary&#10;print(len(dict1))" />
+              <option name="updatedContent" value="# ------------------------------&#10;# ✅ Checking Key Existence in Dictionary&#10;# ------------------------------&#13;&#10;&#13;&#10;# Creating a sample dictionary with 3 key-value pairs&#13;&#10;dict1 = {'a': 1, 'b': 2, 'c': 3}&#13;&#10;&#13;&#10;# Using 'in' operator to check if a key exists in the dictionary&#13;&#10;# Returns True if key exists, False if it doesn't&#13;&#10;print(&quot;Is 'a' in dictionary?&quot;, 'a' in dict1)  # True - key 'a' exists&#13;&#10;print(&quot;Is 'd' in dictionary?&quot;, 'd' in dict1)  # False - key 'd' doesn't exist&#13;&#10;&#13;&#10;# Output:&#13;&#10;# Is 'a' in dictionary? True&#13;&#10;# Is 'd' in dictionary? False&#13;&#10;&#13;&#10;&#13;&#10;# ---------------------------&#13;&#10;# ✅ Finding Length of Dictionary&#13;&#10;# ---------------------------&#13;&#10;&#13;&#10;# Using len() function to get the number of key-value pairs&#13;&#10;# len() returns the total count of items in the dictionary&#13;&#10;print(&quot;Length of dictionary:&quot;, len(dict1))&#13;&#10;&#13;&#10;# Output:&#13;&#10;# Length of dictionary: 3" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations/Looping_Merging.py">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations/Looping_Merging.py" />
+              <option name="originalContent" value="#Looping in Dictonaries&#10;&#10;dict1 = {'captain':'Rohit_sharma','fast_bowler':'jasprit_bumrah','venue':'eden_gardens'}&#10;for key in dict1:&#10;    print(key,':',dict1[key])&#10;&#10;&#10;# Merging two dictionaries&#10;&#10;bike_dict = {'brand':'yamaha','model':'rx100','price':'180000'}&#10;car_dict = {'manufacturer':'toyota','model':'fortuner','body_type':'suv','price':'35,00,000'}&#10;&#10;#1st way to merge dictionaries&#10;merge_dict = {**bike_dict, **car_dict}&#10;print(merge_dict)&#10;&#10;#2nd way to merge dictionaries&#10;merge_dict2 = bike_dict | car_dict&#10;print(merge_dict2)" />
+              <option name="updatedContent" value="# ---------------------------&#10;# ✅ Looping in Dictionaries&#10;# ---------------------------&#10;&#10;# Creating a cricket-themed dictionary&#10;dict1 = {'captain':'Rohit_sharma','fast_bowler':'jasprit_bumrah','venue':'eden_gardens'}&#10;&#10;# Looping through dictionary keys and accessing their values&#10;# The for loop iterates over each key in the dictionary&#10;for key in dict1:&#10;    print(key, ':', dict1[key])&#10;&#10;# Output:&#10;# captain : Rohit_sharma&#10;# fast_bowler : jasprit_bumrah&#10;# venue : eden_gardens&#10;&#10;&#10;# ---------------------------&#10;# ✅ Merging Two Dictionaries&#10;# ---------------------------&#10;&#10;# Creating two separate dictionaries - one for bike and one for car&#10;bike_dict = {'brand':'yamaha','model':'r15_v4','price':'180000'}&#10;car_dict = {'manufacturer':'toyota','model':'fortuner','body_type':'suv'}&#10;&#10;# Method 1: Using unpacking operator (**)&#10;# This method unpacks both dictionaries and creates a new merged dictionary&#10;merge_dict = {**bike_dict, **car_dict}&#10;print(&quot;Merged using ** operator:&quot;, merge_dict)&#10;&#10;# Method 2: Using pipe operator (|) - Available in Python 3.9+&#10;# This is a newer syntax for merging dictionaries&#10;merge_dict2 = bike_dict | car_dict&#10;print(&quot;Merged using | operator:&quot;, merge_dict2)&#10;&#10;# Output:&#10;# Merged using ** operator: {'brand': 'yamaha', 'model': 'fortuner', 'price': '180000', 'manufacturer': 'toyota', 'body_type': 'suv'}&#10;# Merged using | operator: {'brand': 'yamaha', 'model': 'fortuner', 'price': '180000', 'manufacturer': 'toyota', 'body_type': 'suv'}" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations/Updating_Deleting.py">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations/Updating_Deleting.py" />
+              <option name="originalContent" value="# Updating elements at Dictionary&#10;&#10;dict1 = {'College':'GEC,Sector-28 ','Principle':'Dr. J . M . rathod','Department':'E &amp; C','batch':'A1'}&#10;dict1['Principle'] = 'Dr. Nisarg Bhatt'&#10;print(dict1)&#10;&#10;# Deleting elements at Dictionary&#10;del dict1['batch']&#10;print(dict1)" />
+              <option name="updatedContent" value="# --------------------------------&#13;&#10;# ✅ Updating Elements in Dictionary&#13;&#10;# --------------------------------&#13;&#10;&#13;&#10;# Creating a dictionary with college information&#13;&#10;dict1 = {'College':'GEC,Sector-28 ','Principle':'Dr. J . M . rathod','Department':'E &amp; C','batch':'A1'}&#13;&#10;&#13;&#10;# Updating an existing key's value&#13;&#10;# Syntax: dictionary_name['existing_key'] = 'new_value'&#13;&#10;dict1['Principle'] = 'Dr. Nisarg Bhatt'&#13;&#10;&#13;&#10;# Print the updated dictionary&#13;&#10;print(&quot;After updating Principle:&quot;, dict1)&#13;&#10;&#13;&#10;# Output:&#13;&#10;# After updating Principle: {'College': 'GEC,Sector-28 ', 'Principle': 'Dr. Nisarg Bhatt', 'Department': 'E &amp; C', 'batch': 'A1'}&#13;&#10;&#13;&#10;&#13;&#10;# --------------------------------&#13;&#10;# ✅ Deleting Elements from Dictionary&#13;&#10;# --------------------------------&#13;&#10;&#13;&#10;# Using del keyword to remove a key-value pair&#13;&#10;# Syntax: del dictionary_name['key_to_delete']&#13;&#10;del dict1['batch']&#13;&#10;&#13;&#10;# Print the dictionary after deletion&#13;&#10;print(&quot;After deleting batch:&quot;, dict1)&#13;&#10;&#13;&#10;# Output:&#13;&#10;# After deleting batch: {'College': 'GEC,Sector-28 ', 'Principle': 'Dr. Nisarg Bhatt', 'Department': 'E &amp; C'}" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
