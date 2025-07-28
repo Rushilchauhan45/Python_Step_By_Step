@@ -20,7 +20,6 @@ print("Square Dictionary:", dict1)
 
 # List of keys
 list_key = ['a', 'b', 'c', 'd']
-
 # List of values
 list_value = [1, 2, 3, 4]
 
