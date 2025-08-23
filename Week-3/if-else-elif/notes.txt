@@ -1,0 +1,40 @@
+[1] if Statement 
+
+--> it is single branch statement
+--> Syntax :
+
+ if condition :
+    //code
+
+[2] if-else Statement 
+
+--> it is two branches statement (true otherwise false)
+--> Syntax :
+
+ if condition :
+    //code
+ else :
+    //code 
+
+[3] elif statement 
+
+--> When You want to Add Multiple branches then you have use elif with condition... 
+--> Syntax:
+
+ if condition :
+    //code
+ elif condition :
+    //code
+    .
+    .
+    .
+    .
+    .
+ elif condition :
+    //code
+ else :
+    //code 
+
+----------------------------------------------------------
+|                      Boolean Logic                     |
+----------------------------------------------------------

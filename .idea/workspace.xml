@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="887ac0e8-94ed-4f76-8519-7a9fadea8ca4" name="Changes" comment="Todays Work Added...">
-      <change afterPath="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/bike_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/car_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/cricket_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/copilotDiffState.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilotDiffState.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations/Acessesing_Adding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations/Acessesing_Adding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-3/Shedule.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week-3/Shedule.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,42 +35,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Acessesing_Adding.executor": "Run",
-    "Python.Add_Update_Remove.executor": "Run",
-    "Python.Basic.executor": "Run",
-    "Python.BasicDatatypes.executor": "Run",
-    "Python.Checking_Length.executor": "Run",
-    "Python.Compherison_Conveting.executor": "Run",
-    "Python.Copy_Fun.executor": "Run",
-    "Python.Discard_Pop_Clear.executor": "Run",
-    "Python.DisjointSet.executor": "Run",
-    "Python.Indentity.executor": "Run",
-    "Python.Input-Output.executor": "Run",
-    "Python.Looping_Merging.executor": "Run",
-    "Python.Sym_Dif_Subset.executor": "Run",
-    "Python.Sym_Dif_Subset_Superset.executor": "Run",
-    "Python.Union_Intersection.executor": "Run",
-    "Python.Updating_Deleting.executor": "Run",
-    "Python.demo.executor": "Run",
-    "Python.demo_fixed.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Acessesing_Adding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Add_Update_Remove.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BasicDatatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Checking_Length.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Clear_Copy_Fromkeys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Compherison_Conveting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Copy_Fun.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Discard_Pop_Clear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DisjointSet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Indentity.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Input-Output.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Looping_Merging.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sym_Dif_Subset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sym_Dif_Subset_Superset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Union_Intersection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Updating_Deleting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo_fixed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_items_keys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_items_keys_Values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pop_popitem_setdefault_Update.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,6 +97,9 @@
       <workItem from="1753353243970" duration="46000" />
       <workItem from="1753413043845" duration="5080000" />
       <workItem from="1753498301664" duration="3617000" />
+      <workItem from="1753518643722" duration="166000" />
+      <workItem from="1753671878557" duration="4931000" />
+      <workItem from="1755075104611" duration="714000" />
     </task>
     <task id="LOCAL-00001" summary="Todays Work Added...">
       <option name="closed" value="true" />
@@ -125,14 +129,18 @@
     <SUITE FILE_PATH="coverage/Python_Step_By_Step$DisjointSet.coverage" NAME="DisjointSet Coverage Results" MODIFIED="1753329316467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Set/Operations" />
     <SUITE FILE_PATH="coverage/Python_Step_By_Step$Discard_Pop_Clear.coverage" NAME="Discard_Pop_Clear Coverage Results" MODIFIED="1753330799178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Set/Methods" />
     <SUITE FILE_PATH="coverage/Python_Step_By_Step$Add_Update_Remove.coverage" NAME="Add_Update_Remove Coverage Results" MODIFIED="1753330444826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Set/Methods" />
-    <SUITE FILE_PATH="coverage/Python_Step_By_Step$Acessesing_Adding.coverage" NAME="Acessesing_Adding Coverage Results" MODIFIED="1753414900867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations" />
+    <SUITE FILE_PATH="coverage/Python_Step_By_Step$Acessesing_Adding.coverage" NAME="Acessesing_Adding Coverage Results" MODIFIED="1753672305436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations" />
     <SUITE FILE_PATH="coverage/Python_Step_By_Step$demo_fixed.coverage" NAME="demo_fixed Coverage Results" MODIFIED="1753501456768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Interview Questions" />
+    <SUITE FILE_PATH="coverage/Python_Step_By_Step$get_items_keys_Values.coverage" NAME="get_items_keys_Values Coverage Results" MODIFIED="1753674826839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Methods" />
     <SUITE FILE_PATH="coverage/Python_Step_By_Step$BasicDatatypes.coverage" NAME="BasicDatatypes Coverage Results" MODIFIED="1752848349056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-1/Programs" />
-    <SUITE FILE_PATH="coverage/Python_Step_By_Step$Compherison_Conveting.coverage" NAME="Compherison_Conveting Coverage Results" MODIFIED="1753417208402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations" />
+    <SUITE FILE_PATH="coverage/Python_Step_By_Step$Compherison_Conveting.coverage" NAME="Compherison_Conveting Coverage Results" MODIFIED="1753672807030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations" />
     <SUITE FILE_PATH="coverage/Python_Step_By_Step$Checking_Length.coverage" NAME="Checking_Length Coverage Results" MODIFIED="1753415861747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations" />
     <SUITE FILE_PATH="coverage/Python_Step_By_Step$demo.coverage" NAME="demo Coverage Results" MODIFIED="1753500531190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Interview Questions" />
     <SUITE FILE_PATH="coverage/Python_Step_By_Step$Indentity.coverage" NAME="Indentity Coverage Results" MODIFIED="1753499641619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/Operators" />
+    <SUITE FILE_PATH="coverage/Python_Step_By_Step$get_items_keys.coverage" NAME="get_items_keys Coverage Results" MODIFIED="1753674661953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Methods" />
+    <SUITE FILE_PATH="coverage/Python_Step_By_Step$Clear_Copy_Fromkeys.coverage" NAME="Clear_Copy_Fromkeys Coverage Results" MODIFIED="1753674202984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Methods" />
     <SUITE FILE_PATH="coverage/Python_Step_By_Step$Input_Output.coverage" NAME="Input-Output Coverage Results" MODIFIED="1752848362230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-1/Programs" />
     <SUITE FILE_PATH="coverage/Python_Step_By_Step$Sym_Dif_Subset.coverage" NAME="Sym_Dif_Subset Coverage Results" MODIFIED="1753328915472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Set/Operations" />
+    <SUITE FILE_PATH="coverage/Python_Step_By_Step$pop_popitem_setdefault_Update.coverage" NAME="pop_popitem_setdefault_Update Coverage Results" MODIFIED="1753676255505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Methods" />
   </component>
 </project>

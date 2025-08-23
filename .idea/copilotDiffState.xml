@@ -11,36 +11,6 @@
             </PendingDiffInfo>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations/Acessesing_Adding.py">
-          <value>
-            <PendingDiffInfo>
-              <option name="filePath" value="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/Operations/Acessesing_Adding.py" />
-              <option name="originalContent" value="# ------------------------------------&#10;# ✅ Accessing Elements from Dictionary&#10;# ------------------------------------&#10;&#10;# Creating a dictionary with company information&#10;dict1 = {'Company':'Google','Slogan':'IT Consultansy Company','Since':'1998'}&#10;&#10;# Accessing elements using square brackets []&#10;# This method gets the value associated with the given key&#10;print(&quot;Company Name:&quot;, dict1['Company'])&#10;print(&quot;Company Slogan:&quot;, dict1['Slogan'])&#10;print(&quot;Established Since:&quot;, dict1['Since'])&#10;&#10;# Output:&#10;# Company Name: Google&#10;# Company Slogan: IT Consultansy Company&#10;# Established Since: 1998&#10;&#10;&#10;# ---------------------------&#10;# ✅ Adding Elements to Dictionary&#10;# ---------------------------&#10;&#10;# Adding a new key-value pair to existing dictionary&#10;# Syntax: dictionary_name['new_key'] = 'new_value'&#10;dict1['Location'] = 'Mountain View, California'&#10;&#10;# Print the updated dictionary&#10;print(&quot;Updated Dictionary:&quot;, dict1)&#10;&#10;# Output:&#10;# Updated Dictionary: {'Company': 'Google', 'Slogan': 'IT Consultansy Company', 'Since': '1998', 'Location': 'Mountain View, California'}&#10;" />
-              <option name="updatedContent" value="# ------------------------------------&#10;# ✅ Accessing Elements from Dictionary&#10;# ------------------------------------&#10;&#10;# Creating a dictionary with company information&#10;dict1 = {'Company':'Google','Slogan':'IT Consultansy Company','Since':'1998'}&#10;&#10;# Accessing elements using square brackets []&#10;# This method gets the value associated with the given key&#10;print(&quot;Company Name:&quot;, dict1['Company'])&#10;print(&quot;Company Slogan:&quot;, dict1['Slogan'])&#10;print(&quot;Established Since:&quot;, dict1['Since'])&#10;&#10;# Output:&#10;# Company Name: Google&#10;# Company Slogan: IT Consultansy Company&#10;# Established Since: 1998&#10;&#10;&#10;# ---------------------------&#10;# ✅ Adding Elements to Dictionary&#10;# ---------------------------&#10;&#10;# Adding a new key-value pair to existing dictionary&#10;# Syntax: dictionary_name['new_key'] = 'new_value'&#10;dict1['Location'] = 'Mountain View, California'&#10;&#10;# Print the updated dictionary&#10;print(&quot;Updated Dictionary:&quot;, dict1)&#10;&#10;# Output:&#10;# Updated Dictionary: {'Company': 'Google', 'Slogan': 'IT Consultansy Company', 'Since': '1998', 'Location': 'Mountain View, California'}&#10;" />
-            </PendingDiffInfo>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/bike_data.py">
-          <value>
-            <PendingDiffInfo>
-              <option name="filePath" value="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/bike_data.py" />
-            </PendingDiffInfo>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/car_data.py">
-          <value>
-            <PendingDiffInfo>
-              <option name="filePath" value="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/car_data.py" />
-            </PendingDiffInfo>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/cricket_data.py">
-          <value>
-            <PendingDiffInfo>
-              <option name="filePath" value="$PROJECT_DIR$/Week-2/Programs/List-Tuple-Dict-Set/Dict/cricket_data.py" />
-            </PendingDiffInfo>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
